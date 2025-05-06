@@ -40,7 +40,6 @@ tmp
 Thumbs.db
 .DS_Store
 
-*.ts
 !*.d.ts
 
 src/app/example*
