@@ -5,6 +5,6 @@
   "lib": {
     "entryFile": "index.ts"
   },
-  "assets": ["styles", "index.less"],
+  "assets": ["styles", "index.scss"],
   "allowedNonPeerDependencies": ["tslib", "angular", "simplemde-antd"]
 }
