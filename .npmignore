@@ -31,33 +31,11 @@ node_modules
 #IntelliJ configuration files
 .idea
 
-dist
-dev
-docs
-test
-tmp
+
 
 Thumbs.db
 .DS_Store
 
 !*.d.ts
 
-src/app/example*
-src/public
-typings
-*_spec.*
-CONTRIBUTING.md
-gulpfile.ts
-favicon.ico
-karma-shim.js
-karma.conf.js
-make.js
-protractor.conf.js
-test-main.js
-tslint.json
-typedoc.json
-typings.json
-webpack.config.js
-*.yml
-.jshintrc
-.editorconfig
+
